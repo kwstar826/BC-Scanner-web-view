@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  Sample
-//
-//  Created by Ignacio on 3/27/14.
-//  Copyright (c) 2014 DZN Labs. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 #import "DZNWebViewController.h"

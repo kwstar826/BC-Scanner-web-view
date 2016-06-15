@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10856E831D1148C1006D5E22 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10856E821D1148C1006D5E22 /* Images.xcassets */; };
 		4F5F8A0D1A224CC400C95C4C /* Launch Screen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F5F8A0C1A224CC400C95C4C /* Launch Screen.xib */; };
 		4F6A37671A20E09100323282 /* NSHipster.com.html in Resources */ = {isa = PBXBuildFile; fileRef = 4F6A375A1A20E09100323282 /* NSHipster.com.html */; };
 		4F6A37681A20E09100323282 /* analytics.js in Resources */ = {isa = PBXBuildFile; fileRef = 4F6A375C1A20E09100323282 /* analytics.js */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		10856E821D1148C1006D5E22 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		4F3041DB1A1EFA8900F702A5 /* DZNWebViewController.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = DZNWebViewController.podspec; path = ../../DZNWebViewController.podspec; sourceTree = "<group>"; };
 		4F5F8A0C1A224CC400C95C4C /* Launch Screen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "Launch Screen.xib"; sourceTree = "<group>"; };
 		4F6A375A1A20E09100323282 /* NSHipster.com.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = NSHipster.com.html; sourceTree = "<group>"; };
@@ -62,19 +64,19 @@
 		4F6A37641A20E09100323282 /* swiftype_nocode-07cbc4b36e68587ab665b0b38990d144.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "swiftype_nocode-07cbc4b36e68587ab665b0b38990d144.js"; sourceTree = "<group>"; };
 		4F6A37651A20E09100323282 /* swiftype_nocode-c3886df84f1fbe6c1177c96bbf4a40ac.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = "swiftype_nocode-c3886df84f1fbe6c1177c96bbf4a40ac.css"; sourceTree = "<group>"; };
 		4F6A37661A20E09100323282 /* the-nshipster-fake-book-cover@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "the-nshipster-fake-book-cover@2x.png"; sourceTree = "<group>"; };
-		4FB845FF18E50C450056BDFB /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FB845FF18E50C450056BDFB /* BcScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BcScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FB8460218E50C450056BDFB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4FB8460418E50C450056BDFB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		4FB8460618E50C450056BDFB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		4FB8460A18E50C450056BDFB /* Sample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Sample-Info.plist"; sourceTree = "<group>"; };
+		4FB8460A18E50C450056BDFB /* BcScanner-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BcScanner-Info.plist"; sourceTree = "<group>"; };
 		4FB8460C18E50C450056BDFB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4FB8460E18E50C450056BDFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4FB8461018E50C450056BDFB /* Sample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sample-Prefix.pch"; sourceTree = "<group>"; };
+		4FB8461018E50C450056BDFB /* BcScanner-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BcScanner-Prefix.pch"; sourceTree = "<group>"; };
 		4FB8461118E50C450056BDFB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4FB8461218E50C450056BDFB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4FB8461A18E50C450056BDFB /* SampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FB8461A18E50C450056BDFB /* BcScanner.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BcScanner.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FB8461B18E50C450056BDFB /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		4FB8462318E50C450056BDFB /* SampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleTests-Info.plist"; sourceTree = "<group>"; };
+		4FB8462318E50C450056BDFB /* BcScannerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BcScannerTests-Info.plist"; sourceTree = "<group>"; };
 		4FB8462518E50C450056BDFB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4FB8462718E50C450056BDFB /* SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleTests.m; sourceTree = "<group>"; };
 		4FC763EE18E725C60009F375 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
@@ -169,8 +171,8 @@
 		4FB8460018E50C450056BDFB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4FB845FF18E50C450056BDFB /* Sample.app */,
-				4FB8461A18E50C450056BDFB /* SampleTests.xctest */,
+				4FB845FF18E50C450056BDFB /* BcScanner.app */,
+				4FB8461A18E50C450056BDFB /* BcScanner.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -192,6 +194,7 @@
 			children = (
 				4FB8461118E50C450056BDFB /* AppDelegate.h */,
 				4FB8461218E50C450056BDFB /* AppDelegate.m */,
+				10856E821D1148C1006D5E22 /* Images.xcassets */,
 				4FB8460918E50C450056BDFB /* Supporting Files */,
 			);
 			path = Sample;
@@ -205,10 +208,10 @@
 				4FC763EF18E725C60009F375 /* Default.png */,
 				4FC763F018E725C60009F375 /* Default@2x.png */,
 				4F5F8A0C1A224CC400C95C4C /* Launch Screen.xib */,
-				4FB8460A18E50C450056BDFB /* Sample-Info.plist */,
+				4FB8460A18E50C450056BDFB /* BcScanner-Info.plist */,
 				4FB8460B18E50C450056BDFB /* InfoPlist.strings */,
 				4FB8460E18E50C450056BDFB /* main.m */,
-				4FB8461018E50C450056BDFB /* Sample-Prefix.pch */,
+				4FB8461018E50C450056BDFB /* BcScanner-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -225,7 +228,7 @@
 		4FB8462218E50C450056BDFB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4FB8462318E50C450056BDFB /* SampleTests-Info.plist */,
+				4FB8462318E50C450056BDFB /* BcScannerTests-Info.plist */,
 				4FB8462418E50C450056BDFB /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -234,9 +237,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4FB845FE18E50C450056BDFB /* Sample */ = {
+		4FB845FE18E50C450056BDFB /* BcScanner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4FB8462B18E50C450056BDFB /* Build configuration list for PBXNativeTarget "Sample" */;
+			buildConfigurationList = 4FB8462B18E50C450056BDFB /* Build configuration list for PBXNativeTarget "BcScanner" */;
 			buildPhases = (
 				1EC6BC6C7A664F638AC7E348 /* Check Pods Manifest.lock */,
 				4FB845FB18E50C450056BDFB /* Sources */,
@@ -248,14 +251,14 @@
 			);
 			dependencies = (
 			);
-			name = Sample;
+			name = BcScanner;
 			productName = Sample;
-			productReference = 4FB845FF18E50C450056BDFB /* Sample.app */;
+			productReference = 4FB845FF18E50C450056BDFB /* BcScanner.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4FB8461918E50C450056BDFB /* SampleTests */ = {
+		4FB8461918E50C450056BDFB /* BcScannerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4FB8462E18E50C450056BDFB /* Build configuration list for PBXNativeTarget "SampleTests" */;
+			buildConfigurationList = 4FB8462E18E50C450056BDFB /* Build configuration list for PBXNativeTarget "BcScannerTests" */;
 			buildPhases = (
 				4FB8461618E50C450056BDFB /* Sources */,
 				4FB8461718E50C450056BDFB /* Frameworks */,
@@ -266,9 +269,9 @@
 			dependencies = (
 				4FB8462018E50C450056BDFB /* PBXTargetDependency */,
 			);
-			name = SampleTests;
+			name = BcScannerTests;
 			productName = SampleTests;
-			productReference = 4FB8461A18E50C450056BDFB /* SampleTests.xctest */;
+			productReference = 4FB8461A18E50C450056BDFB /* BcScanner.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -285,7 +288,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4FB845FA18E50C450056BDFB /* Build configuration list for PBXProject "Sample" */;
+			buildConfigurationList = 4FB845FA18E50C450056BDFB /* Build configuration list for PBXProject "BcScanner" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -298,8 +301,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4FB845FE18E50C450056BDFB /* Sample */,
-				4FB8461918E50C450056BDFB /* SampleTests */,
+				4FB845FE18E50C450056BDFB /* BcScanner */,
+				4FB8461918E50C450056BDFB /* BcScannerTests */,
 			);
 		};
 /* End PBXProject section */
@@ -318,6 +321,7 @@
 				4FC763F118E725C60009F375 /* Default-568h@2x.png in Resources */,
 				4F6A37721A20E09100323282 /* the-nshipster-fake-book-cover@2x.png in Resources */,
 				4F6A37711A20E09100323282 /* swiftype_nocode-c3886df84f1fbe6c1177c96bbf4a40ac.css in Resources */,
+				10856E831D1148C1006D5E22 /* Images.xcassets in Resources */,
 				4F5F8A0D1A224CC400C95C4C /* Launch Screen.xib in Resources */,
 				4F6A376C1A20E09100323282 /* cfhipsterref-cover@2x.png in Resources */,
 				4F6A376A1A20E09100323282 /* book-cover@2x.png in Resources */,
@@ -395,7 +399,7 @@
 /* Begin PBXTargetDependency section */
 		4FB8462018E50C450056BDFB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4FB845FE18E50C450056BDFB /* Sample */;
+			target = 4FB845FE18E50C450056BDFB /* BcScanner */;
 			targetProxy = 4FB8461F18E50C450056BDFB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -436,7 +440,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Netkiller America., Inc. (2FM2AY35EJ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Netkiller America., Inc. (2FM2AY35EJ)";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -455,6 +460,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "ce924e36-50d4-40db-835f-b08b73c9972d";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -475,7 +481,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Netkiller America., Inc. (2FM2AY35EJ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Netkiller America., Inc. (2FM2AY35EJ)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -486,6 +493,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PROVISIONING_PROFILE = "ce924e36-50d4-40db-835f-b08b73c9972d";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -496,13 +504,15 @@
 			baseConfigurationReference = ED4997A7C5F4D6AACC9BD7B0 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Netkiller America., Inc. (2FM2AY35EJ)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Sample/Sample-Prefix.pch";
-				INFOPLIST_FILE = "Sample/Sample-Info.plist";
+				GCC_PREFIX_HEADER = "Sample/BcScanner-Prefix.pch";
+				INFOPLIST_FILE = "Sample/BcScanner-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "cl.dzn.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BcScanner;
+				PROVISIONING_PROFILE = "ce924e36-50d4-40db-835f-b08b73c9972d";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -513,13 +523,15 @@
 			baseConfigurationReference = 84072172328E77E3D64B7C81 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Netkiller America., Inc. (2FM2AY35EJ)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Sample/Sample-Prefix.pch";
-				INFOPLIST_FILE = "Sample/Sample-Info.plist";
+				GCC_PREFIX_HEADER = "Sample/BcScanner-Prefix.pch";
+				INFOPLIST_FILE = "Sample/BcScanner-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "cl.dzn.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BcScanner;
+				PROVISIONING_PROFILE = "ce924e36-50d4-40db-835f-b08b73c9972d";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -535,14 +547,14 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Sample/Sample-Prefix.pch";
+				GCC_PREFIX_HEADER = "Sample/BcScanner-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "SampleTests/SampleTests-Info.plist";
+				INFOPLIST_FILE = "SampleTests/BcScannerTests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "cl.dzn.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BcScanner;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -558,10 +570,10 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Sample/Sample-Prefix.pch";
-				INFOPLIST_FILE = "SampleTests/SampleTests-Info.plist";
+				GCC_PREFIX_HEADER = "Sample/BcScanner-Prefix.pch";
+				INFOPLIST_FILE = "SampleTests/BcScannerTests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "cl.dzn.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BcScanner;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -570,7 +582,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4FB845FA18E50C450056BDFB /* Build configuration list for PBXProject "Sample" */ = {
+		4FB845FA18E50C450056BDFB /* Build configuration list for PBXProject "BcScanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FB8462918E50C450056BDFB /* Debug */,
@@ -579,7 +591,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4FB8462B18E50C450056BDFB /* Build configuration list for PBXNativeTarget "Sample" */ = {
+		4FB8462B18E50C450056BDFB /* Build configuration list for PBXNativeTarget "BcScanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FB8462C18E50C450056BDFB /* Debug */,
@@ -588,7 +600,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4FB8462E18E50C450056BDFB /* Build configuration list for PBXNativeTarget "SampleTests" */ = {
+		4FB8462E18E50C450056BDFB /* Build configuration list for PBXNativeTarget "BcScannerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FB8462F18E50C450056BDFB /* Debug */,

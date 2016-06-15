@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C4CF20EF7202C600688666DFCC000962D2A71F00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D311AB8C174840A4EE4A47EBDC7C8F65527E0B7B" : 0,
+    "C4CF20EF7202C600688666DFCC000962D2A71F00" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "90C73CE3-9940-4CEE-991C-E41021D56E26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D311AB8C174840A4EE4A47EBDC7C8F65527E0B7B" : "DZNWebViewController",
+    "C4CF20EF7202C600688666DFCC000962D2A71F00" : "BC%20Scanner%20web%20view\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Examples\/Sample\/Sample.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antoon198731\/BC-Scanner-web-view.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4CF20EF7202C600688666DFCC000962D2A71F00"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dzenbot\/DZNWebViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D311AB8C174840A4EE4A47EBDC7C8F65527E0B7B"
+    }
+  ]
+}
