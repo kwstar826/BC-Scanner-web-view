@@ -17,7 +17,7 @@
     DZNWebViewController *controller = [[DZNWebViewController alloc] initWithFileURL:[NSURL fileURLWithPath:path]];
 
 #else
-    DZNWebViewController *controller = [[DZNWebViewController alloc] initWithURL:[NSURL URLWithString:@"https://bc-scanner.appspot.com/"]];
+    DZNWebViewController *controller = [[DZNWebViewController alloc] initWithURL:[NSURL URLWithString:@"http://bc-scanner.appspot.com/"]];
 
 #endif
     
